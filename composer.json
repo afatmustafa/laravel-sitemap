@@ -1,5 +1,5 @@
 {
-    "name": "laravelium/sitemap",
+    "name": "afatmustafa/laravel-sitemap",
     "description": "Laravelium Sitemap package for Laravel.",
     "homepage": "https://laravelium.com",
     "keywords": ["laravelium", "laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
