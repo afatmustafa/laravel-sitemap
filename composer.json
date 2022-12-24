@@ -1,15 +1,13 @@
 {
     "name": "afatmustafa/laravel-sitemap",
-    "description": "Laravelium Sitemap package for Laravel.",
-    "homepage": "https://laravelium.com",
-    "keywords": ["laravelium", "laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
+    "description": "Sitemap package for Laravel.",
+    "homepage": "https://laravel.com",
+    "keywords": ["laravel", "php", "sitemap", "generator", "xml", "html", "google-news"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Rumen Damyanov",
-            "email": "r@alfamatter.com",
-            "role": "Developer",
-            "homepage": "https://darumen.com"
+            "name": "Taylor Otwell",
+            "email": "taylor@laravel.com"
         }
     ],
     "support": {
